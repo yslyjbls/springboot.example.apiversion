@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: springboot.example
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: cui
+Implementation-Vendor-Id: com.lich
+Build-Jdk: 1.8.0_151
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/springboot.example
+Created-By: Maven Integration for Eclipse
+

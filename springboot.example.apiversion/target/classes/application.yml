@@ -1,0 +1,17 @@
+server:
+  context-path: /api
+  port: 8023
+ 
+spring:
+  profiles:
+    active:
+      - dev
+  http:
+    encoding:
+      force: true
+      charset: utf-8
+      enabled: true
+          
+logging:
+  level:
+    springboot.example: info
